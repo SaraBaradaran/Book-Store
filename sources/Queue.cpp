@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    Queue.cpp
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #include "queue.h"
 #include "librarysystem.h"
 
