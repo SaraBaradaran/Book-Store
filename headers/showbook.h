@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    showbook.h
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #ifndef SHOWBOOK_H
 #define SHOWBOOK_H
 #include <QListWidget>
