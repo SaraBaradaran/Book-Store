@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    getfactor.h
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #ifndef GETFACTOR_H
 #define GETFACTOR_H
 
