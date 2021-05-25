@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    librarysystem.h
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #ifndef LIBRARYSYSTEM_H
 #define LIBRARYSYSTEM_H
 
