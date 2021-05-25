@@ -1,3 +1,14 @@
+  /****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    Queue.h			
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #ifndef QUEUE_H
 #define QUEUE_H
 
