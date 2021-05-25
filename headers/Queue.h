@@ -1,10 +1,10 @@
-  /****************************************************************  
+/****************************************************************  
 #								
 # 								
 # 	Creator Name:   Sara Baradaran, Mahdi Heidari		
-# 	Create Date:    Jun 2018 				
-# 	Module Name:    Queue.h			
-# 	Project Name:   IUT_Messenger	
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    Queue.h
+# 	Project Name:   Bookstore	
 #								
 #								
 ****************************************************************/
