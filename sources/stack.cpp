@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    stack.cpp
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #include "stack.h"
 
 Stack::Stack():top(0),size(0)
