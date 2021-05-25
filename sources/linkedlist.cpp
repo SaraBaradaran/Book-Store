@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    linkedlist.cpp
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #include "linkedlist.h"
 #include "librarysystem.h"
 
