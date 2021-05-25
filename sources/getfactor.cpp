@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    getfactor.cpp
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #include "getfactor.h"
 #include "librarysystem.h"
 
