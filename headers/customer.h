@@ -2,9 +2,9 @@
 #								
 # 								
 # 	Creator Name:   Sara Baradaran, Mahdi Heidari		
-# 	Create Date:    Jun 2018 				
+# 	Create Date:    Nov 2018 				
 # 	Module Name:    customer.h
-# 	Project Name:   IUT_Messenger	
+# 	Project Name:   Bookstore	
 #								
 #								
 ****************************************************************/
