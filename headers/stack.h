@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    stack.h
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #ifndef STACK_H
 #define STACK_H
 
