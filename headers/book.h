@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Jun 2018 				
+# 	Module Name:    book.h
+# 	Project Name:   IUT_Messenger	
+#								
+#								
+****************************************************************/
+
 #ifndef BOOK_H
 #define BOOK_H
 #include <QString>
