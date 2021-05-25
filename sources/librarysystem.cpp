@@ -1,3 +1,14 @@
+/****************************************************************  
+#								
+# 								
+# 	Creator Name:   Sara Baradaran, Mahdi Heidari		
+# 	Create Date:    Nov 2018 				
+# 	Module Name:    librarysystem.cpp
+# 	Project Name:   Bookstore	
+#								
+#								
+****************************************************************/
+
 #include "librarysystem.h"
 #include "showbook.h"
 #include "addbook.h"
